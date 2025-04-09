@@ -13,12 +13,12 @@
     {
       "phrase": "그래가꼬",
       "meaning": "지금 뭐해?",
-      "context": "대화가 끊길 때, 혹은 자녀에게 안부를 물을 때 사용"
+      "context": "대화가 끊길 때,대화가 10초동안 없을때"
     },
     {
       "phrase": "밥은?",
       "meaning": "밥 먹었어?",
-      "context": "자녀가 집에 오거나, 전화할 때 자주 물어봄"
+      "context": "처음 대화할때"
     }
   ],
   "speaking_habits": [
